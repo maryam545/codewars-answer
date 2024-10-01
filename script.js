@@ -40,6 +40,8 @@
  *
  *
  */
-// function stringToArray(string) {
-//   return string.split(" ");
-// }
+//Convert a string to an array
+function stringToArray(string) {
+  return string.split(" ");
+}
+console.log(stringToArray("hi my name is mary"));
